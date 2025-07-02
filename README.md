@@ -48,7 +48,7 @@ Node.js / Express /
 
 MongoDB / MySQL /
 
-
+**Ve siz kodun nerelerinin ne olduğunu anlayın diye oralara yorum yazıları koydum koda ama ingilizce bilmiyosan şanssızsın**
 
 📸 Ekran Görüntüleri
 Boşa bakma yok XD
