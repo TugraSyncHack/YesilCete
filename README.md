@@ -51,7 +51,7 @@ MongoDB / MySQL /
 
 
 📸 Ekran Görüntüleri
-Eğer eklersen buraya birkaç ekran görüntüsü çok iyi olur! Özellikle oyundan ve karbon hesaplama sayfasından 📷
+Boşa bakma yok XD
 
 🤝 Katkı Sağlamak İster misin?
 Tabii ki!
@@ -60,8 +60,10 @@ Pull request’lere açığım 🙌
 
 📬 İletişim
 Herhangi bir sorunda bana ulaşabilirsin:
-📧 [e-posta adresin]
-🐦 [Twitter/Instagram/GitHub linkin]
+📧 haktan54tugra54@gmail.com
+🐦 https://github.com/TugraSyncHack/
+   instagram : hetugra01
+   discord : wrusiecl_62164
 
 🌟 Teşekkürler!
 Bu projeyi inceleyip destek verdiğin için teşekkür ederim.
